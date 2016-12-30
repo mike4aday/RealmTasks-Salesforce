@@ -1,6 +1,7 @@
 /**
 Dec. 29, 2016
-Listens for Realm Object Server events and then updates Salesforce. NOT production ready - just a proof-of-concept!
+Listens for Realm Object Server events and then updates Salesforce. 
+NOT production ready - just a proof-of-concept!
 */
 
 'use strict';
